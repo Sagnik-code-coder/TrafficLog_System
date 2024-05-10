@@ -4,7 +4,11 @@
 
 It's a traffic log system user interface using React with SPFx.
 
-[picture of the solution in action, if possible]
+![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/25720e26-181f-4212-8272-f023549712fd)
+![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/5f43c3cc-7b5b-4855-8d6d-58395fee9bd7)
+
+
+
 
 ## Used SharePoint Framework Version
 

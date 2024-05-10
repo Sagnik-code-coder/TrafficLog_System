@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+It's a traffic log system user interface using React with SPFx.
 
 [picture of the solution in action, if possible]
 

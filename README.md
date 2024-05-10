@@ -33,7 +33,7 @@ It's a traffic log system user interface using React with SPFx.
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
+| folder name | Author details (Sagnik, Interra Information Technology) |
 
 ## Version history
 

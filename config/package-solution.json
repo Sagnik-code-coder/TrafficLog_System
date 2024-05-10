@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dealer-entry-client-side-solution",
+    "id": "e92b2f85-1c9d-41f1-89c8-e96d5b838927",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "dealer-entry description"
+      },
+      "longDescription": {
+        "default": "dealer-entry description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "dealer-entry Feature",
+        "description": "The feature that activates elements of the dealer-entry solution.",
+        "id": "0747bad3-88ed-4c31-ba29-e057a3acb498",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/dealer-entry.sppkg"
+  }
+}

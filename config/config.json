@@ -1,0 +1,54 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "dealer-entry-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/dealerEntry/DealerEntryWebPart.js",
+          "manifest": "./src/webparts/dealerEntry/DealerEntryWebPart.manifest.json"
+        }
+      ]
+    },
+    "tab-link-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/tabLink/TabLinkWebPart.js",
+          "manifest": "./src/webparts/tabLink/TabLinkWebPart.manifest.json"
+        }
+      ]
+    },
+    "traffic-report-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/trafficReport/TrafficReportWebPart.js",
+          "manifest": "./src/webparts/trafficReport/TrafficReportWebPart.manifest.json"
+        }
+      ]
+    },
+    "submission-report-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/submissionReport/SubmissionReportWebPart.js",
+          "manifest": "./src/webparts/submissionReport/SubmissionReportWebPart.manifest.json"
+        }
+      ]
+    },
+    "admin-week-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/adminWeek/AdminWeekWebPart.js",
+          "manifest": "./src/webparts/adminWeek/AdminWeekWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DealerEntryWebPartStrings": "lib/webparts/dealerEntry/loc/{locale}.js",
+    "TabLinkWebPartStrings": "lib/webparts/tabLink/loc/{locale}.js",
+    "TrafficReportWebPartStrings": "lib/webparts/trafficReport/loc/{locale}.js",
+    "SubmissionReportWebPartStrings": "lib/webparts/submissionReport/loc/{locale}.js",
+    "AdminWeekWebPartStrings": "lib/webparts/adminWeek/loc/{locale}.js"
+  }
+}

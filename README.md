@@ -6,6 +6,10 @@ It's a traffic log system user interface using React with SPFx.
 
 ![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/25720e26-181f-4212-8272-f023549712fd)
 ![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/5f43c3cc-7b5b-4855-8d6d-58395fee9bd7)
+![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/da598a2a-b4ea-44db-b94f-53819463c53d)
+![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/54dab1ad-0adf-40a9-b3b4-402b8a1ed9c2)
+![image](https://github.com/Sagnik-code-coder/TrafficLog_System/assets/88948046/fe7b4fd1-d2fc-496c-9585-e61446c97a34)
+
 
 
 
